@@ -42,8 +42,8 @@ pip install tensorflow pandas numpy matplotlib kagglehub
 
 ### 2. Train a Model
 
-- Run `urdu_textgeneration.py` for character-level generation.
-- Run `word_generation.py` for word-level generation.
+- Run `Text-Generation_Char-Level.ipynb` for character-level generation.
+- Run `Text-Generation_Word-Level.ipynb` for word-level generation.
 
 Each script will:
 - Load and preprocess the data
